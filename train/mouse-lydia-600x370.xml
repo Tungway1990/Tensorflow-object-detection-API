@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mouse-lydia-600x370.jpg</filename>
+	<path>C:\Users\User\Tensorflow\workspace\training demo\images\train\mouse-lydia-600x370.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>104</ymin>
+			<xmax>590</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

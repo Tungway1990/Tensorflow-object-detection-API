@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mouse</folder>
+	<filename>gettyimages-141167926-2048x2048.jpg</filename>
+	<path>C:\Users\User\Desktop\mouse\gettyimages-141167926-2048x2048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>61</ymin>
+			<xmax>1612</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>

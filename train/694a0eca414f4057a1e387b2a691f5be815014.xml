@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mouse</folder>
+	<filename>694a0eca414f4057a1e387b2a691f5be815014.jpg</filename>
+	<path>C:\Users\User\Desktop\mouse\694a0eca414f4057a1e387b2a691f5be815014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>54</ymin>
+			<xmax>553</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>
